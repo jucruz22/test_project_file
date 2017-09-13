@@ -1,1 +1,16 @@
 another file
+
+making more changes to this file
+
+gonna list the steps that you take when using git:
+
+  1. make a project folder
+  2. TERMINAL: git init command to 'spread' git over this folder to track it
+  3. start adding files to that folder
+  3a. if done 3, then make changes to a file
+  3b. TERMINAL: git status to see what you modified
+      3c. git diff to see specific changes in a file
+  4. TERMINAL: git add file1.txt file2.txt file3.txt etc...
+  5. TERMINAL: git status #to see what things you've added to be tracked
+  6. TERMINAL: git commit -m "add your messsage here to save a moment in time"
+  7. TERMINAL: git status again should be clean - no new changes to commit
